@@ -58,7 +58,7 @@ body {
 }
 
 .header {
-    padding-bottom: 20%;
+    padding-bottom: 20px;
     background: url(img/teaser.jpg) no-repeat center;
     background-size: cover;
 }
