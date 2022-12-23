@@ -59,7 +59,6 @@ body {
 }
 
 .header {
-    height: 90vh !important;
     background: url(img/teaser.jpg) no-repeat center;
     background-size: cover;
 }
@@ -106,6 +105,8 @@ p {
 .content {
     height: 50vh;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
 }
 
