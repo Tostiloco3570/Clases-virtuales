@@ -58,7 +58,6 @@ body {
 }
 
 .header {
-    line-height: 10px;
     background: url(img/teaser.jpg) no-repeat center;
     background-size: cover;
 }
