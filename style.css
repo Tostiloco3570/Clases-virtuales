@@ -104,6 +104,7 @@ p {
 
 .content {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -171,23 +172,4 @@ p {
     padding-top: 20px;
     background: #000000;
     padding-bottom: 0;
-}
-
-
-@media (max-width: 768px) {
-
-    .title {
-        margin-bottom: 0;
-        font-size: 40px;
-    }
-
-    .sau {
-        height: 100vh;
-    }
-
-    .navbar {
-        display: none;
-    }
-   
-    
 }
