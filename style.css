@@ -60,6 +60,7 @@ body {
 .header {
     background: url(img/teaser.jpg) no-repeat center;
     background-size: cover;
+    margin-block-start: 10px;
 }
 
 .title {
