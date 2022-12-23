@@ -58,7 +58,7 @@ body {
 }
 
 .header {
-    min-height: 60%;
+    min-height: 80%;
     background: url(img/teaser.jpg) no-repeat center;
     background-size: cover;
 }
