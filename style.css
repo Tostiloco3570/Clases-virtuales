@@ -58,7 +58,7 @@ body {
 }
 
 .header {
-    border: 10px;
+    border: 50px;
     background: url(img/teaser.jpg) no-repeat center;
     background-size: cover;
 }
