@@ -58,9 +58,9 @@ body {
 }
 
 .header {
+    min-height: 90vh;
     background: url(img/teaser.jpg) no-repeat center;
     background-size: cover;
-    margin-block-start: 10px;
 }
 
 .title {
